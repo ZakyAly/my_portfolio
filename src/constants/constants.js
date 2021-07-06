@@ -1,12 +1,12 @@
 export const projectsList = [
   {
-    title: "MERN Memories",
+    title: "E-Commerce",
     description:
-      "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+      "Using React, @chec/commerce.js & Stripe/react-stripe-js to build this application. The App is called TheDevShop and it is a simple e-commerce app that allows users to add the products to the shopping cart, adding shipping details and checkout to the payment step.",
     image: "/images/1.png",
-    tags: ["Mongo", "Express", "React", "Node"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    tags: ["React", "@chec/commerce", "Stripe/react-stripe-js"],
+    source: "https://github.com/ZakyAly/e-commerce/",
+    visit: "https://e-commerce-the-dev-shop.netlify.app/",
     id: 0,
   },
   {
